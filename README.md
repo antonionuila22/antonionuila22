@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- HERO SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a2e&height=200&section=header&text=&fontSize=0&animation=fadeIn"/>
+<br><br>
+
+# Ramón Nuila
 
 <br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Ram%C3%B3n+Nuila" alt="Name" />
 
 <br>
 
@@ -217,4 +216,4 @@ Trabajo remotamente desde **Honduras 🇭🇳** con clientes en Estados Unidos y
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a2e&height=150&section=footer&reversal=true"/>
+<br>
