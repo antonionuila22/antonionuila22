@@ -1,40 +1,84 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Hola%2C+soy+Ram%C3%B3n+Nuila+%F0%9F%91%8B;Full+Stack+Developer;CEO+%40Codebrand" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://antonionuila22.github.io/portafolioramonnuila/"><img src="https://img.shields.io/badge/Portafolio-ffffff?style=for-the-badge&logo=Google-Chrome&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/ramon-wilberto-antonio-nuila-soto-b2b2b6209/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://api.whatsapp.com/send/?phone=50432722973"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:ramonnuila22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<!-- HERO SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a2e&height=200&section=header&text=&fontSize=0&animation=fadeIn"/>
 
 <br>
 
-<!-- ABOUT SECTION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Ram%C3%B3n+Nuila" alt="Name" />
+
+<br>
+
+**`Full Stack Developer`** · **`UX/UI Designer`** · **`CEO @Codebrand`**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/◉_Portfolio-000000?style=flat&logoColor=white)](https://antonionuila22.github.io/portafolioramonnuila/)
+[![LinkedIn](https://img.shields.io/badge/◉_LinkedIn-000000?style=flat&logoColor=white)](https://www.linkedin.com/in/ramon-wilberto-antonio-nuila-soto-b2b2b6209/)
+[![WhatsApp](https://img.shields.io/badge/◉_WhatsApp-000000?style=flat&logoColor=white)](https://api.whatsapp.com/send/?phone=50432722973)
+[![Email](https://img.shields.io/badge/◉_Email-000000?style=flat&logoColor=white)](mailto:ramonnuila22@gmail.com)
+
+<br><br>
+
+<!-- STATS BANNER -->
+<img src="https://img.shields.io/badge/4+_AÑOS-experiencia-white?style=for-the-badge&labelColor=000"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/12+_PROYECTOS-completados-white?style=for-the-badge&labelColor=000"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/USA_&_LATAM-clientes-white?style=for-the-badge&labelColor=000"/>
+
+<br><br>
+
+</div>
+
+---
+
+<br>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-## 🧑‍💻 Sobre mí
+### Sobre mí
 
-Soy un **Full Stack Developer** con **+4 años** de experiencia creando productos digitales de alto impacto. Actualmente lidero **Codebrand**, donde ayudamos a empresas a transformar sus ideas en experiencias web excepcionales.
+Creo **experiencias digitales** que conectan marcas con personas.
 
-**📍** San Pedro Sula, Honduras
-**🌎** Trabajo remoto con clientes en USA y LATAM
-**🎓** Ing. en Sistemas - CEUTEC
-**🗣️** Español & English
+Soy fundador de **[Codebrand](https://codebrand.us)**, una agencia donde transformamos ideas en productos web de alto impacto. Mi enfoque combina desarrollo técnico sólido con diseño centrado en el usuario.
+
+Trabajo remotamente desde **Honduras 🇭🇳** con clientes en Estados Unidos y Latinoamérica, entregando soluciones que priorizan rendimiento, accesibilidad y resultados medibles.
+
+<br>
+
+**Especialidades:**
+- Desarrollo Full Stack (React, Next.js, Astro)
+- Diseño de interfaces y experiencia de usuario
+- Optimización SEO y rendimiento web
+- E-commerce y plataformas digitales
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-## 📊 Métricas
+### Stack Principal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonionuila22&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=c9d1d9&icon_color=58a6ff&hide=contribs" height="150"/>
-</p>
+<br>
+
+<div align="center">
+
+| Frontend | Backend | Design |
+|:--------:|:-------:|:------:|
+| React | Node.js | Figma |
+| Next.js | MongoDB | Adobe XD |
+| Astro | Supabase | Illustrator |
+| TypeScript | PostgreSQL | Photoshop |
+| Tailwind | Strapi | Webflow |
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,tailwind,nodejs,mongodb,supabase,figma&perline=9" />
+</div>
 
 </td>
 </tr>
@@ -42,225 +86,135 @@ Soy un **Full Stack Developer** con **+4 años** de experiencia creando producto
 
 <br>
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><sub><b>React</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br><sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
-<br><sub><b>Astro</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br><sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><sub><b>Tailwind</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><sub><b>MongoDB</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br><sub><b>Supabase</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br><sub><b>Figma</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-<br><sub><b>WordPress</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=webflow" width="48" height="48" alt="Webflow" />
-<br><sub><b>Webflow</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
-<br><sub><b>Illustrator</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-<br><sub><b>Photoshop</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><sub><b>Git</b></sub>
-</td>
-</tr>
-</table>
+---
 
 <br>
 
-<!-- FEATURED PROJECTS -->
-## 🚀 Proyectos Destacados
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Support Labs</h3>
-<p align="center">
-<a href="https://supportlabs.com" target="_blank"><img src="https://img.shields.io/badge/VER_PROYECTO-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-<p align="center">Plataforma de servicios de soporte técnico con diseño moderno y optimizado para conversiones.</p>
-</td>
-<td width="50%">
-<h3 align="center">Nail Your Marketing</h3>
-<p align="center">
-<a href="https://nailyourmarketing.com" target="_blank"><img src="https://img.shields.io/badge/VER_PROYECTO-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-<p align="center">Agencia de marketing digital con sitio web de alto rendimiento y SEO optimizado.</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">Work Ninjas</h3>
-<p align="center">
-<a href="https://workninjas.com" target="_blank"><img src="https://img.shields.io/badge/VER_PROYECTO-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-<p align="center">Plataforma de servicios profesionales con interfaz intuitiva y experiencia de usuario optimizada.</p>
-</td>
-<td width="50%">
-<h3 align="center">Codebrand</h3>
-<p align="center">
-<a href="https://codebrand.us" target="_blank"><img src="https://img.shields.io/badge/VER_PROYECTO-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-<p align="center">Mi agencia de desarrollo web. Sitios modernos, rápidos y optimizados para SEO.</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">Arch Construction Group</h3>
-<p align="center">
-<a href="https://archconstructiongroup.com" target="_blank"><img src="https://img.shields.io/badge/VER_PROYECTO-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-<p align="center">Sitio web para empresa de construcción con galería de proyectos y formularios de contacto.</p>
-</td>
-<td width="50%">
-<h3 align="center">Crescere ABA</h3>
-<p align="center">
-<a href="https://crescereaba.com" target="_blank"><img src="https://img.shields.io/badge/VER_PROYECTO-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-<p align="center">Plataforma de servicios de terapia ABA con diseño accesible y profesional.</p>
-</td>
-</tr>
-</table>
+### Proyectos Seleccionados
 
 <br>
 
-<!-- EXPERIENCE -->
-## 💼 Experiencia
+<div align="center">
+
+| Proyecto | Descripción | Stack |
+|:---------|:------------|:------|
+| **[Support Labs](https://supportlabs.com)** | Plataforma de soporte técnico empresarial | Next.js · Tailwind |
+| **[Work Ninjas](https://workninjas.com)** | Marketplace de servicios profesionales | React · Node.js |
+| **[Nail Your Marketing](https://nailyourmarketing.com)** | Agencia de marketing digital | Astro · SEO |
+| **[Codebrand](https://codebrand.us)** | Agencia de desarrollo web (mi empresa) | Next.js · Supabase |
+| **[Arch Construction](https://archconstructiongroup.com)** | Sitio corporativo de construcción | WordPress · Custom |
+| **[Crescere ABA](https://crescereaba.com)** | Servicios de terapia ABA | React · Accesibilidad |
+
+</div>
+
+<br>
+
+<div align="center">
+
+*Más proyectos en mi [portafolio completo →](https://antonionuila22.github.io/portafolioramonnuila/)*
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### Trayectoria
+
+<br>
 
 ```
-2023 - Presente  │  Full Stack Developer @ Work Ninjas / Nail Marketing / Support Labs
-                 │  Desarrollo de sitios web dinámicos y responsivos para clientes en USA
-                 │
-2022 - 2023      │  Graphic Designer @ GraphXSource
-                 │  Diseño de mockups, ilustraciones y branding
-                 │
-2019 - 2023      │  Freelance Web Developer
-                 │  +10 diseños digitales diarios | Sitios web personalizados | UX/UI
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   2023 → Presente    CEO & Lead Developer @ Codebrand                       │
+│                      Full Stack Developer @ Work Ninjas / Support Labs      │
+│                                                                             │
+│   2022 → 2023        Graphic Designer @ GraphXSource                        │
+│                      Branding · Mockups · Ilustración digital               │
+│                                                                             │
+│   2019 → 2023        Freelance Web Developer                                │
+│                      Desarrollo web · UX/UI · +10 entregas diarias          │
+│                                                                             │
+│   2020 → Presente    Ingeniería en Sistemas @ CEUTEC                        │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br>
 
-<!-- CERTIFICATIONS -->
-## 📜 Certificaciones
-
-<p>
-<img src="https://img.shields.io/badge/UX/UI_Design_(Adobe_XD)-FF61F6?style=flat-square&logo=adobe&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress_Professional-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Agile_&_Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" />
-<img src="https://img.shields.io/badge/E--commerce_Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-</p>
+---
 
 <br>
 
-<!-- SERVICES -->
-## 🎯 Servicios
+### Certificaciones
 
-<table>
-<tr>
-<td align="center" width="33%">
 <br>
-<img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Aber/Tarikul-Islam-Anik/master/assets/images/Developer.gif"/>
+
+<div align="center">
+
+`UX/UI Design - Adobe XD` · `WordPress Professional` · `Agile & Scrum` · `E-commerce Angular`
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### GitHub
+
+<br>
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=antonionuila22&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=888&icon_color=fff&ring_color=fff" />
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=antonionuila22&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=888888&sideLabels=888888&currStreakNum=FFFFFF&sideNums=888888&dates=555555" />
+
 <br><br>
-<b>Desarrollo Web</b>
+
+<img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=antonionuila22&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area=true&hide_border=true&area_color=1a1a2e" />
+
+</div>
+
 <br>
-<sub>React · Next.js · Astro<br>WordPress · Webflow</sub>
+
+---
+
+<br>
+
+<div align="center">
+
+### Trabajemos juntos
+
+<br>
+
+¿Tienes un proyecto en mente? Me encantaría escucharte.
+
 <br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png"/>
+
+[![Contactar](https://img.shields.io/badge/Iniciar_conversación-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=50432722973)
+
 <br><br>
-<b>Diseño UX/UI</b>
-<br>
-<sub>Figma · Prototipos<br>Design Systems</sub>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png"/>
-<br><br>
-<b>SEO & Marketing</b>
-<br>
-<sub>SEO Técnico · Local SEO<br>Optimización Web</sub>
-<br><br>
-</td>
-</tr>
-</table>
+
+---
 
 <br>
 
-<!-- GITHUB ACTIVITY -->
-## 📈 Actividad
+<sub>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=antonionuila22&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-</p>
+**Ramón Nuila** · San Pedro Sula, Honduras
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonionuila22&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681" />
-</p>
+[Portfolio](https://antonionuila22.github.io/portafolioramonnuila/) · [LinkedIn](https://www.linkedin.com/in/ramon-wilberto-antonio-nuila-soto-b2b2b6209/) · [Instagram](https://www.instagram.com/ramonnuila22/) · [ramonnuila22@gmail.com](mailto:ramonnuila22@gmail.com)
+
+</sub>
 
 <br>
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=antonionuila22&style=for-the-badge&color=0d1117&labelColor=0d1117&label=👁️+PROFILE+VIEWS" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=antonionuila22&style=flat-square&color=1a1a2e&label=Visitas" />
 
-<p align="center">
-  <b>¿Tienes un proyecto en mente?</b>
-  <br><br>
-  <a href="https://api.whatsapp.com/send/?phone=50432722973"><img src="https://img.shields.io/badge/Hablemos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a2e&height=150&section=footer&reversal=true"/>
